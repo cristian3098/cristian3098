@@ -12,6 +12,9 @@
 -->
 # Bienvenido a mi perfil de GitHub 👋
 ¡Hola! Soy Cristian Acosta, un apasionado desarrollador web con experiencia en la creación de sitios interactivos y funcionales. Estoy entusiasmado con la tecnología y siempre busco aprender y mejorar mis habilidades en esta industria en constante evolución.
+<p align="center">
+    <img width="100%" src="https://github.com/cristian3098/cristian3098/blob/main/dibujo.png">
+</p>
 ## Habilidades
 
 - ⚡ Desarrollo web: HTML, CSS, JavaScript
